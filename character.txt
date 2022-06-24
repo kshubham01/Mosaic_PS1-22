@@ -1,0 +1,5 @@
+ABCEFHJKMNOPSTUWXYZ1234567
+
+total characters=26
+
+1, 2, 3, 4, 5, 6 ,7 represents emojis in given order as in PS.
